@@ -14,7 +14,7 @@ header, nav, main, footer {
 
 header {
     color: #333333; 
-    background-image: url('/images/pexels-piotr-arnoldes-7862031-6025782.jpg'); 
+    background-image: url('../images/pexels-piotr-arnoldes-7862031-6025782.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
@@ -85,7 +85,7 @@ nav ul li a:hover::after {
 
 main {
     color: #333333; 
-    background-image: url('/images/pexels-piotr-arnoldes-7862031-6025782.jpg'); 
+    background-image: url('../images/pexels-piotr-arnoldes-7862031-6025782.jpg'); 
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat; 
